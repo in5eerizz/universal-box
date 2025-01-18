@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@aws-sdk/client-s3": "^3.637.0",
-    "dotenv": "^16.4.5",
+    "dotenv": "^16.4.7",
     "ioredis": "^5.4.1",
     "mime-types": "^2.1.35",
     "redis-server": "^1.2.2"
