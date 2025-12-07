@@ -1,5 +1,6 @@
-Django>=3.2,<4.0
+Django>=4.2.27
 djangorestframework
 django-cors-headers
 djangorestframework-simplejwt
 python-dotenv
+sqlparse>=0.5.4 # not directly required, pinned by Snyk to avoid a vulnerability
